@@ -92,5 +92,6 @@
   - [Flexblox W3C](https://www.w3schools.com/csS/css3_flexbox.asp)
   - [Flexbox guia completo - Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
   - [CSS FlexBox: Um Guia Visual - Alura](https://www.alura.com.br/artigos/css-guia-do-flexbox)
-  - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Flexbugs - Github](https://github.com/philipwalton/flexbugs)
+  - [Flexbox Froggy - Jogo](https://flexboxfroggy.com/)
+  - [Flexbox Defense - Jogo](http://www.flexboxdefense.com/)
