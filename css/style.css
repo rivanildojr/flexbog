@@ -341,7 +341,7 @@ img {
   color: #122ab2;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 959px) {
   .preco .preco-item:nth-child(3) {
     order: -2;
   }
@@ -362,3 +362,11 @@ img {
     font-size: 1.5em;
   }
 }
+
+@media (max-width: 359px) {
+  .sobre-img {
+    margin-top: 10px;
+  }
+}
+
+.sobre-img {
