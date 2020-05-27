@@ -42,7 +42,7 @@
     - Quando a direção é em coluna, "justify-content" muda para a vertical e "align-items" para a horizontal;
     - Quando se define ma direção para uma linha ou coluna reversa, start e end também são reversos.
 
-## Flex Container
+## Flex Item
 
   ### Flex-grow
 
